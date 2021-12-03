@@ -121,7 +121,7 @@ body{
     opacity: 0.9;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
     .main-flex {
         display: grid;
         grid-template-columns: 1fr;
